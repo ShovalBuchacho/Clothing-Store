@@ -1,0 +1,25 @@
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\obj\Debug\project opp typescript.csprojAssemblyReference.cache
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\project opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\obj\Debug\project opp typescript.csprojAssemblyReference.cache
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\שובל\project opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\bin\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\obj\Debug\project opp typescript.csprojAssemblyReference.cache
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\bucha\OneDrive\שולחן העבודה\Course .NET Full Stuck\Projects\Second project-opp typescript\project opp typescript\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\bin\TypeScriptHTMLApp1.dll
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\bin\TypeScriptHTMLApp1.pdb
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\obj\Debug\project opp typescript.csprojAssemblyReference.cache
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\obj\Debug\project opp typescript.csproj.CoreCompileInputs.cache
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\bucha\Desktop\שובל\Develop\Full Stuck\Front End\TypeScript course\Projects\Project Clothing_Store -Typescript opp\project opp typescript\obj\Debug\TypeScriptHTMLApp1.pdb
